@@ -275,3 +275,7 @@ flutter run --flavor prod
 - Click on the `Run and Debug` button in the left sidebar
 - Select the desired flavor
 - Click on the `Run` button
+
+## References
+
+https://codewithandrea.com/articles/flutter-firebase-multiple-flavors-flutterfire-cli/#option-2-use-multiple-entry-points
